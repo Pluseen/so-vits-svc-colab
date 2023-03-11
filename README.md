@@ -4,7 +4,8 @@
 尚在测试中，先别fork。
 正在确认4.0v2 底模是否正确 https://huggingface.co/T-K-233/so-vits-svc-dependency/tree/main
 
-目前缺少3.0底模            
+## 进度
+目前缺少3.0与 4.0-v2底模，所以4.0v2 colab 底模不正确需要修正            
 ```bash
 3.0
 G_0.pth             100%[===================>] 222.27M          
