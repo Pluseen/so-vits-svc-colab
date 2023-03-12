@@ -13,7 +13,7 @@ D_0.pth             100%[===================>] 178.35M
 ```
 
 ```bash
-4.0 https://huggingface.co/ThePioneer/NaturalGirlyVoice/tree/main 与此大小不符，但config为4.0
+4.0 https://huggingface.co/ThePioneer/NaturalGirlyVoice/tree/main 与此大小不符，但config为4.0，经询问确认为精简模型差别.
 
 G_0.pth             100%[===================>] 172.26M         
 D_0.pth             100%[===================>] 178.35M 
