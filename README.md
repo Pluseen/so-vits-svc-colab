@@ -22,6 +22,15 @@ sovits3.0 推理.ipynb 未完成
 5. 如将本仓库代码二次分发，或将由此项目产出的任何结果公开发表 (包括但不限于视频网站投稿)，请注明原作者及代码来源 (此仓库)。
 6. 如果将此项目用于任何其他企划，请提前联系并告知本仓库作者，十分感谢。
 
+# Terms of Use
+
+1. This project is established for academic exchange purposes only and is intended for communication and learning purposes. It is not intended for production environments. Please solve the authorization problem of the dataset on your own. You shall be solely responsible for any problems caused by the use of non-authorized datasets for training and all consequences thereof.
+2. Any videos based on sovits that are published on video platforms must clearly indicate in the description that they are used for voice changing and specify the input source of the voice or audio, for example, using videos or audios published by others and separating the vocals as input source for conversion, which must provide clear original video or music links. If your own voice or other synthesized voices from other commercial vocal synthesis software are used as the input source for conversion, you must also explain it in the description.
+3. You shall be solely responsible for any infringement problems caused by the input source. When using other commercial vocal synthesis software as input source, please ensure that you comply with the terms of use of the software. Note that many vocal synthesis engines clearly state in their terms of use that they cannot be used for input source conversion.
+4. Continuing to use this project is deemed as agreeing to the relevant provisions stated in this repository README. This repository README has the obligation to persuade, and is not responsible for any subsequent problems that may arise.
+5. If you distribute this repository's code or publish any results produced by this project publicly (including but not limited to video sharing platforms), please indicate the original author and code source (this repository).
+6. If you use this project for any other plan, please contact and inform the author of this repository in advance. Thank you very much.
+
 ## update
 
 > 更新了4.0-v2模型，全部流程同4.0，相比4.0在部分场景下有一定提升，但也有些情况有退步，具体可移步[4.0-v2分支](https://github.com/svc-develop-team/so-vits-svc/tree/4.0-v2)
