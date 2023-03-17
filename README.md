@@ -9,7 +9,7 @@
 
 3.0 一键训练_推理脚本已完成 
 
-sovits4.0 & V2 推理.ipynb 未完成
+sovits4.0 & V2 推理.ipynb 已完成
 
 sovits3.0 推理.ipynb 未完成
 
