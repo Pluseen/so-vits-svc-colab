@@ -11,7 +11,7 @@
 
 sovits4.0 & V2 推理.ipynb 已完成
 
-sovits3.0 推理.ipynb 未完成
+sovits3.0 推理.ipynb 已完成
 
 ## 使用规约
 
